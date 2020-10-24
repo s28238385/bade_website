@@ -10164,3 +10164,22 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.news{
+    text-align: center;
+    line-height: 24px;
+}
+
+.news-link{
+    padding:1em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.traffic-list{
+    list-style-type: square;
+}
+
+.traffic-body{
+    margin:0 auto;
+}
