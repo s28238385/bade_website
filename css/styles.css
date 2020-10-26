@@ -10181,5 +10181,19 @@ header.masthead h1 {
 }
 
 .traffic-body{
-    margin:0 auto;
+    margin:0 10%;
+    width: fit-content;
+    max-width: 80%;
+    min-width: 250px;
+}
+
+.traffic-text{
+    margin:auto;
+    width: fit-content;
+    max-width: 80%;
+    min-width: 250px;
+}
+
+.fit-content{
+    width: fit-content;
 }
