@@ -694,7 +694,7 @@ pre code {
 
 .col-6 {
   flex: 0 0 50%;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .col-7 {
@@ -10196,4 +10196,9 @@ header.masthead h1 {
 
 .fit-content{
     width: fit-content;
+}
+
+.visited_img {
+  max-width: 100%;
+  margin: 2% auto;
 }
