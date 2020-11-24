@@ -10181,7 +10181,7 @@ header.masthead h1 {
 }
 
 .traffic-body{
-    margin:0 15%;
+    margin:0 auto;
     width: fit-content;
     max-width: 80%;
     min-width: 250px;
@@ -10201,4 +10201,9 @@ header.masthead h1 {
 .visited_img {
   max-width: 100%;
   margin: 2% auto;
+}
+
+.traffic_img {
+  max-width: 100%;
+  margin: 2%;
 }
