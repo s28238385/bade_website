@@ -10183,8 +10183,8 @@ header.masthead h1 {
 .traffic-body{
     margin:0 auto;
     width: fit-content;
-    max-width: 80%;
-    min-width: 250px;
+    max-width: 70%;
+    min-width: 300px;
 }
 
 .traffic-text{
