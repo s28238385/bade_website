@@ -61,7 +61,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
@@ -10183,8 +10183,8 @@ header.masthead h1 {
 .traffic-body{
     margin:0 auto;
     width: fit-content;
-    max-width: 80%;
-    min-width: 250px;
+    max-width: 70%;
+    min-width: 300px;
 }
 
 .traffic-text{
@@ -10204,6 +10204,7 @@ header.masthead h1 {
 }
 
 .traffic_img {
-  max-width: 100%;
+  width: 100%;
+  height: 100%;
   margin: 2%;
 }
